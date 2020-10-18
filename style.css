@@ -1311,3 +1311,9 @@ p {
   color: #fff;
   font-size: 1.5rem;
 }
+
+.navbar-dark .navbar-toggler {
+  color: rgb(255 255 255);
+  border-color: rgb(114 80 228);
+  background: #7251e4;
+}
